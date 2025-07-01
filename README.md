@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Reshma 👋
+Full Stack Developer | Java | Dsa | Salesforce
+✨ Full Stack Developer passionate about building responsive, user-friendly web applications.
+💡 I love transforming ideas into clean, scalable code with a focus on user-centered design.
+🌱 Always learning and exploring new technologies to create practical, impactful solutions.
+🛠️ Skilled in Html,Java, Python, JavaScript, ReactJS, AngularJS, Spring Boot, and MySQL.
+👩‍💻 Managing and customizing Salesforce to streamline workflows and enhance user experiences.
 
-<!--
-**reshma1809/reshma1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me: 
+linked in - https://www.linkedin.com/in/reshma-sirli-802696289/
+Email - renusirli9@gmail.com
