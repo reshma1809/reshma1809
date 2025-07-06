@@ -1,6 +1,5 @@
 Hi, I'm Reshma 👋
-[![Profile views](https://komarev.com/ghpvc/?username=reshma-renu&color=blue)](https://github.com/reshma-renu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/your-link/)
-Full Stack Developer | Java | Dsa | Salesforce
+FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> &nbsp;
