@@ -1,4 +1,4 @@
-                                                                                       # Hi there! I'm Reshma 
+  # Hi there! I'm Reshma  
 
 FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE
 
