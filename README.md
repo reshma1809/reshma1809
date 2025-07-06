@@ -1,4 +1,4 @@
-<p align="center">  # Hi there! I'm Reshma  </p>
+<p align="center">  <h1>Hi there! I'm Reshma<h2></h2>  </p>
 
 <p align="center">FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE</p>
 <p align="center">
