@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/reshma-sirli-802696289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+   <a href="https://reshma-portfolio-beige.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 
@@ -36,7 +39,7 @@
 🌱 Constantly exploring new technologies to create practical, impactful solutions.
 
 🛠️ Skilled in HTML, Java, Python, JS, ReactJS, AngularJS, Spring Boot, MySQL, Salesforce.
-🌐 Check out my [Portfolio](https://reshma-portfolio-beige.vercel.app/) for more!
+
 
 📫 Connect with me: 
 linked in - https://www.linkedin.com/in/reshma-sirli-802696289/
