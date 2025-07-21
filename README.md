@@ -30,8 +30,11 @@
 
 
 ✨ Full Stack Developer passionate about building user-friendly, responsive web apps.
+
 💡 Transforming ideas into clean, scalable code with user-centered design in mind.
+
 🌱 Constantly exploring new technologies to create practical, impactful solutions.
+
 🛠️ Skilled in HTML, Java, Python, JS, ReactJS, AngularJS, Spring Boot, MySQL, Salesforce.
 
 
