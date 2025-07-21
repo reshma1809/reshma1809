@@ -1,5 +1,8 @@
-<p align="center">  <h1>Hi there! I'm Reshma<h2></h2>  </p>
- < alt="Profile Views" />
+<h1 align="center">Hi There,I'm Reshma 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reshma&label=Profile%20views&color=0e75b6&style=flat" alt="Reshu's profile view counter"/>
+</p>
+
 
 <p align="center"> FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE </p>
 <p align="center">
