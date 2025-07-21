@@ -1,10 +1,14 @@
-<h1 align="center">Hi There,I'm Reshma 👋</h1>
+<h1 align="center"> Hello There,I'm Reshma 👋</h1>
+
+<p align="center"> FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reshma&label=Profile%20views&color=0e75b6&style=flat" alt="Reshu's profile view counter"/>
+  <a href="https://www.linkedin.com/in/reshma-sirli-802696289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 
-<p align="center"> FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,16 +29,10 @@
 
 
 
-
-✨ Full Stack Developer passionate about building responsive, user-friendly web applications.
-
-💡 I love transforming ideas into clean, scalable code with a focus on user-centered design.
-
-🌱 Always learning and exploring new technologies to create practical, impactful solutions.
-
-🛠️ Skilled in Html,Java, Python, JavaScript, ReactJS, AngularJS, Spring Boot, and MySQL.
-
-👩‍💻 Managing and customizing Salesforce to streamline workflows and enhance user experiences.
+✨ Full Stack Developer passionate about building user-friendly, responsive web apps.
+💡 Transforming ideas into clean, scalable code with user-centered design in mind.
+🌱 Constantly exploring new technologies to create practical, impactful solutions.
+🛠️ Skilled in HTML, Java, Python, JS, ReactJS, AngularJS, Spring Boot, MySQL, Salesforce.
 
 
 
