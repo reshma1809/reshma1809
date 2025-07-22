@@ -42,6 +42,4 @@
 
 
 📫 Connect with me: 
-linked in - https://www.linkedin.com/in/reshma-sirli-802696289/
-
-Email - renusirli9@gmail.com
+   Email - renusirli9@gmail.com
