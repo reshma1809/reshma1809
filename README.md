@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There,I'm Reshma 👋</h1>
 
-<p align="center"> FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE </p>
+<p align="center"> FULL STACK DEVELOPER | JAVA | DSA | SALESFORCE  </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reshma&label=Profile%20views&color=0e75b6&style=flat" alt="Reshu's profile view counter"/>
   <a href="https://www.linkedin.com/in/reshma-sirli-802696289" target="_blank">
