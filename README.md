@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reshma&label=Profile%20views&color=0e75b6&style=flat" alt="Reshu's profile view counter"/>
   <a href="https://www.linkedin.com/in/reshma-sirli-802696289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg ?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
    <a href="https://reshma-portfolio-beige.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
